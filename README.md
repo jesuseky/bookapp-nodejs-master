@@ -1,4 +1,3 @@
-bookapp-nodejs
-==============
+booka aplicacion para multicapa con 
 
-NodeJS REST application with express, mongoose, AngularJS, jQueryUI
+REST, express, AngularJS, jQueryUI
